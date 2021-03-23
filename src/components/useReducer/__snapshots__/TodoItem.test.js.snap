@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas del componente todoList debe de crear snapshots y mostrarse correctamente 1`] = `
+<li
+  className="list-group-item flex-box"
+  key="1"
+>
+  <p
+    className="false pointer"
+    onClick={[Function]}
+  >
+    1
+    . 
+    Aprender React
+  </p>
+  <button
+    className="btn btn-danger"
+    onClick={[Function]}
+    type="button"
+  >
+    Borrar
+  </button>
+</li>
+`;
